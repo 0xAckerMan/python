@@ -1,4 +1,4 @@
-#/usr/bin/python3
+#!/usr/bin/python3
 # Author : k0r3s
 
 import random

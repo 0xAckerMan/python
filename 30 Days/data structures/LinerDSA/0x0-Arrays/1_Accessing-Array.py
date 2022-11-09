@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/usr/bin/python3
 # Author: K0r3s
 
 '''

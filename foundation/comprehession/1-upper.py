@@ -2,4 +2,6 @@
 
 names = ["Joel", "Max","Jimmy"]
 
-[name.upper() for name in names]
+upper_names = [name.upper() for name in names]
+
+print(upper_names)
